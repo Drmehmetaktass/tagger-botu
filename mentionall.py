@@ -37,11 +37,11 @@ import os, logging, asyncio
    await event.reply("Grub Tagger🇹🇷, Grup veya kanaldaki neredeyse tüm üyelerden bahsedebilirim ★\nDaha fazla bilgi için /bilgi'i tıklayın.", 
                      buttons=( 
                        [ 
-                          Button.url('➕ BENİ GRUBA EKLE ➕ ', 'http://t.me/umittagger_bot?startgroup=a') 
+                          Button.url('➕ BENİ GRUBA EKLE ➕ ', 'http://t.me/master_tagger_bot?startgroup=a') 
                        ], 
                        [ 
-                          Button.url('📣 Kanal', 'https://t.me/suskunlarkanali'), 
-                          Button.url('👮Developer', 'https://t.me/sessizlerkurucu'), 
+                          Button.url('📣 Kanal', 'https://t.me/turkcbot'), 
+                          Button.url('👮Developer', 'https://t.me/Boshesap322'), 
                        ] 
                      ), 
                      link_preview=False 
